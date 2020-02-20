@@ -1,0 +1,1 @@
+INSERT IGNORE INTO item_model(id) values (2);
